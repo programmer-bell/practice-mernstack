@@ -41,5 +41,5 @@ Strengthen React component structuring
 Work with basic CRUD operations
 
 Style using utility-first CSS (Tailwind)
-## 📁 Project Structure
+
 
